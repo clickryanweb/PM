@@ -1,0 +1,9 @@
+
+soln for issues...
+
+
+- adjustment of approval matrix
+	> approval matrix table, process_order order column
+
+- multiple approver
+	> nxt_approver = employee number
